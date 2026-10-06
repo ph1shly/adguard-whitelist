@@ -1,2 +1,2 @@
 # adguard-whitelist
-AdGuard Whitelist derived from pihole commonly whitelisted domains(https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212)
+AdGuard Whitelist to allow Xbox and Microsoft services to function correctly
